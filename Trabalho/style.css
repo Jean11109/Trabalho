@@ -1,0 +1,29 @@
+body{
+    background-color: yellow;
+}
+#blocoy{
+    height: 300px;
+    width: 600px;
+    background-color:gray;
+    border: solid;
+    border-color: blueviolet;
+    align-content: center;
+}
+.divA{
+    height: 300px;
+    width: 600px;
+    background-color:gray;
+    border: solid;
+    border-color:black;
+    align-content: center;
+}
+h1{
+        color: red;
+        text-align: center;
+    }
+    h2{
+        color:red;
+    }
+    p {
+        color:blue;
+    }
